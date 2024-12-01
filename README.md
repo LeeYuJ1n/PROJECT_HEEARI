@@ -1,7 +1,9 @@
 # ○ PROJECT_HEEARI
 
 # ○ WORK PERIOD
-오전 1:10 2024-12-02 월 ~ 
+오전 1:10 2024-12-02 월 ~ </br>
+</br>
+UI : 오전 1:10 2024-12-02 월
 
 # ○ TEST VERION UPLOAD LOG
 
