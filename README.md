@@ -1,7 +1,7 @@
 # ○ PROJECT_HEEARI
 
 # ○ WORK PERIOD
-2024년 12월 2일 01:06 ~ 제작중
+오전 1:10 2024-12-02 ~ 
 
 # ○ TEST VERION UPLOAD LOG
 
